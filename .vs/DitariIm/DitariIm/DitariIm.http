@@ -1,0 +1,6 @@
+@DitariIm_HostAddress = http://localhost:5207
+
+GET {{DitariIm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
