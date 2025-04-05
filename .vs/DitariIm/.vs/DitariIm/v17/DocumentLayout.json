@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|c:\\users\\hp\\desktop\\ditari-im\\.vs\\ditariim\\ditariim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|solutionrelative:ditariim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|c:\\users\\hp\\desktop\\ditari-im\\.vs\\ditariim\\ditariim\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|solutionrelative:ditariim\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|c:\\users\\hp\\desktop\\ditari-im\\.vs\\ditariim\\ditariim\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|solutionrelative:ditariim\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|c:\\users\\hp\\desktop\\ditari-im\\.vs\\ditariim\\ditariim\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|solutionrelative:ditariim\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|c:\\users\\hp\\desktop\\ditari-im\\.vs\\ditariim\\ditariim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4274D3AF-A68B-48D8-8E64-1BD3F69B47E6}|DitariIm\\DitariIm.csproj|solutionrelative:ditariim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\appsettings.json",
+              "RelativeDocumentMoniker": "DitariIm\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\appsettings.json",
+              "RelativeToolTip": "DitariIm\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T19:45:44.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\Startup.cs",
+              "RelativeDocumentMoniker": "DitariIm\\Startup.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\Startup.cs",
+              "RelativeToolTip": "DitariIm\\Startup.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwEEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:45:08.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DitariIm\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\appsettings.Development.json",
+              "RelativeToolTip": "DitariIm\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T19:43:38.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DitariIm\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DitariIm\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T19:43:12.278Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -22,6 +95,23 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\Program.cs",
+              "RelativeDocumentMoniker": "DitariIm\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Ditari-Im\\.vs\\DitariIm\\DitariIm\\Program.cs",
+              "RelativeToolTip": "DitariIm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:37:37.497Z",
+              "EditorCaption": ""
             }
           ]
         }

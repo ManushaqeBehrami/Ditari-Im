@@ -2,9 +2,9 @@ import React, { useEffect } from 'react';
 import { observer } from 'mobx-react-lite';
 import HomePage from './HomePage';
 
-import DonjetaImage from '../Images/Donjeta.jpg'
-import BleonaImage from '../Images/Bleona.jpg';
-import GresaImage from '../Images/Gresa.jpg';
+import personi1Image from '../Images/personi1.jpg'
+import personi2Image from '../Images/personi2.jpg';
+import personi3Image from '../Images/personi3.jpg';
 import Headerphoto from '../Images/pngegg.png';
 import TeamMeeting from '../Images/team-meeting-1.jpeg';
 import OnlineLearning from '../Images/onlinelearning.jpg';
@@ -309,18 +309,18 @@ function BeforeLoginPage() {
               <div className="card bg-light">
                 <div className="card-body text-center ">
                   <img
-                    src={BleonaImage}
+                    src={personi2Image}
                     className="rounded-circle mb-3"
                     alt=""
                   />
-                  <h3 className="card-title mb-3">Bleona Bajrami</h3>
+                  <h3 className="card-title mb-3">personi2 Bajrami</h3>
                   <p className="card-text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Assumenda accusamus nobis sed cupiditate iusto? Quibusdam.
                   </p>
 
-                  <a href="https://www.facebook.com/bleona.bajrami.54922"><i className="bi bi-facebook text-dark mx-1"></i></a>
-                  <a href="https://www.linkedin.com/in/bleona-bajrami-969bb9214/"><i className="bi bi-linkedin text-dark mx-1"></i></a>
+                  <a href="https://www.facebook.com/personi2.bajrami.54922"><i className="bi bi-facebook text-dark mx-1"></i></a>
+                  <a href="https://www.linkedin.com/in/personi2-bajrami-969bb9214/"><i className="bi bi-linkedin text-dark mx-1"></i></a>
                   <a href="https://www.instagram.com/bleeona.bajrammi/"><i className="bi bi-instagram text-dark mx-1"></i></a>
                 </div>
               </div>
@@ -330,7 +330,7 @@ function BeforeLoginPage() {
               <div className="card bg-light">
                 <div className="card-body text-center">
                   <img
-                    src={DonjetaImage}
+                    src={personi1Image}
                     className="rounded-circle mb-3"
                     alt=""
                   />
@@ -351,18 +351,18 @@ function BeforeLoginPage() {
               <div className="card bg-light">
                 <div className="card-body text-center">
                   <img
-                    src={GresaImage}
+                    src={personi3Image}
                     className="rounded-circle mb-3"
                     alt=""
                   />
-                  <h3 className="card-title mb-3">Gresa Berisha</h3>
+                  <h3 className="card-title mb-3">personi3 Berisha</h3>
                   <p className="card-text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Assumenda accusamus nobis sed cupiditate iusto? Quibusdam.
                   </p>
 
-                  <a href="https://www.facebook.com/gresa.berisha.9041"><i className="bi bi-facebook text-dark mx-1"></i></a>
-                  <a href="https://www.instagram.com/gresaaberiisha/"><i className="bi bi-instagram text-dark mx-1"></i></a>
+                  <a href="https://www.facebook.com/personi3.berisha.9041"><i className="bi bi-facebook text-dark mx-1"></i></a>
+                  <a href="https://www.instagram.com/personi3aberiisha/"><i className="bi bi-instagram text-dark mx-1"></i></a>
                 </div>
               </div>
             </div>

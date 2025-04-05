@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DitariIm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f38044e8a00542b8cad83c99792996353ff5cf18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a552ae6c15c4d85698c042be7d92f44a65d0dc8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DitariIm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DitariIm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
