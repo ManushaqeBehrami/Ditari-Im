@@ -313,15 +313,15 @@ function BeforeLoginPage() {
                     className="rounded-circle mb-3"
                     alt=""
                   />
-                  <h3 className="card-title mb-3">personi2 Bajrami</h3>
+                  <h3 className="card-title mb-3">Personi 1</h3>
                   <p className="card-text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Assumenda accusamus nobis sed cupiditate iusto? Quibusdam.
                   </p>
 
-                  <a href="https://www.facebook.com/personi2.bajrami.54922"><i className="bi bi-facebook text-dark mx-1"></i></a>
-                  <a href="https://www.linkedin.com/in/personi2-bajrami-969bb9214/"><i className="bi bi-linkedin text-dark mx-1"></i></a>
-                  <a href="https://www.instagram.com/bleeona.bajrammi/"><i className="bi bi-instagram text-dark mx-1"></i></a>
+                  <a href="https://www.facebook.com/"><i className="bi bi-facebook text-dark mx-1"></i></a>
+                  <a href="https://www.linkedin.com/"><i className="bi bi-linkedin text-dark mx-1"></i></a>
+                  <a href="https://www.instagram.com/"><i className="bi bi-instagram text-dark mx-1"></i></a>
                 </div>
               </div>
             </div>
@@ -334,15 +334,15 @@ function BeforeLoginPage() {
                     className="rounded-circle mb-3"
                     alt=""
                   />
-                  <h3 className="card-title mb-3">Donjetë Zogaj</h3>
+                  <h3 className="card-title mb-3">Personi 2</h3>
                   <p className="card-text">
                     Studente ne kolegjin UBT ne drejtimin shkenca kompjuterike dhe inxhinieri.
                     E psionuar pas fizikes <br></br>dhe astronomis
                   </p>
 
-                  <a href="https://www.facebook.com/donjetezogaj/"><i className="bi bi-facebook text-dark mx-1"></i></a>
-                  <a href="https://www.linkedin.com/in/donjet%C3%ABzogaj/"><i className="bi bi-linkedin text-dark mx-1"></i></a>
-                  <a href="https://www.instagram.com/donjezo/"><i className="bi bi-instagram text-dark mx-1"></i></a>
+                  <a href="https://www.facebook.com/"><i className="bi bi-facebook text-dark mx-1"></i></a>
+                  <a href="https://www.linkedin.com/"><i className="bi bi-linkedin text-dark mx-1"></i></a>
+                  <a href="https://www.instagram.com/"><i className="bi bi-instagram text-dark mx-1"></i></a>
                 </div>
               </div>
             </div>
@@ -355,14 +355,14 @@ function BeforeLoginPage() {
                     className="rounded-circle mb-3"
                     alt=""
                   />
-                  <h3 className="card-title mb-3">personi3 Berisha</h3>
+                  <h3 className="card-title mb-3">personi 3</h3>
                   <p className="card-text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Assumenda accusamus nobis sed cupiditate iusto? Quibusdam.
                   </p>
 
-                  <a href="https://www.facebook.com/personi3.berisha.9041"><i className="bi bi-facebook text-dark mx-1"></i></a>
-                  <a href="https://www.instagram.com/personi3aberiisha/"><i className="bi bi-instagram text-dark mx-1"></i></a>
+                  <a href="https://www.facebook.com/"><i className="bi bi-facebook text-dark mx-1"></i></a>
+                  <a href="https://www.instagram.com/"><i className="bi bi-instagram text-dark mx-1"></i></a>
                 </div>
               </div>
             </div>
