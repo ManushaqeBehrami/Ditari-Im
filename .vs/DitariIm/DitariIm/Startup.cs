@@ -1,5 +1,5 @@
-using DigitKosova.Models;
-using DigitKosova.Services;
+using DitariIm.Models;
+using DitariIm.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -12,7 +12,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
 
-namespace DigitKosova
+namespace DitariIm
 {
     public class Startup
     {
@@ -31,7 +31,7 @@ namespace DigitKosova
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "DigitKosova", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "DitariIm", Version = "v1" });
             });
             services.AddDbContext<DataContext>(options =>
             {
@@ -83,7 +83,7 @@ namespace DigitKosova
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "DigitKosova v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "DitariIm v1"));
             }
 
             app.UseHttpsRedirection();
